@@ -1,0 +1,11 @@
+.first {
+    box-sizing: border-box;
+    background-color: green;
+    width: 350.01px;
+    height: 220.01px;
+    padding: 15px 10px 20px 10px;
+    border: 2px;
+    border-color: red;
+    border-style: dashed;
+    margin: 30px;
+}
